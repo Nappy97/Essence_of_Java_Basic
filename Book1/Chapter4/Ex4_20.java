@@ -46,7 +46,7 @@ public class Ex4_20 {
                         break;
                     case 3:
                         System.out.println("result=" + Math.log(num));
-                        break ;
+                        break;
                 }
             }
         }
